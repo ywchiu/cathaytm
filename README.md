@@ -10,3 +10,5 @@
 ### Tableau Public
 - https://public.tableau.com/s/download
 
+### 網路爬蟲投影片
+- https://github.com/ywchiu/cathaytm/blob/master/slides/20191018%20Python%20%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2.pdf
